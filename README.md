@@ -1,13 +1,8 @@
-# 01-sematic-challenge
+# 05 html-css-code-refractor-challenge
 
-## Descripton
-During this assignemt I:
-Viewed the source code and found the semantic HTML elements
+## Description
+This README file describes the requirements for creating an accessible webpage. It highlights the need for semantic HTML elements, a logical structure independent of styling and positioning, accessible alt attributes for images, sequential order for heading attributes, and a concise and descriptive title element. These guidelines aim to ensure that the webpage meets accessibility standards.
 
-Found that the elements followed a logitcal structire of styling and positioning
+<img width="1337" alt="Screenshot 2023-03-09 at 1 14 51 PM" src="https://user-images.githubusercontent.com/118701306/224118314-0cdd0278-8bc0-4664-979e-30dcfbc5e65c.png">
 
-Found the image elements and created alt attributes
-
-Viewed the heading attributes and made them fall in sequesntial order
-
-Developed a concise title
+https://malachigamblin.github.io/html-css-code-refractor-challenge/ 
